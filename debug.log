@@ -1,0 +1,74 @@
+Quick-Cocos2dx-Community C++ support ready.
+
+------------------------------------------------
+
+LOAD LUA FILE: D:/cocos2d/cocos2dxLua/Quick-Cocos2dx-Community/quick/samples/game/src/main.lua
+
+------------------------------------------------
+
+[LUA-print] ===========================================================
+
+[LUA-print]               LOAD QUICK FRAMEWORK
+
+[LUA-print] ===========================================================
+
+[LUA-print] [INFO] 
+
+[LUA-print] [INFO] # DEBUG                        = 2
+
+[LUA-print] [INFO] #
+
+[LUA-print] [INFO] # device.platform              = windows
+
+[LUA-print] [INFO] # device.model                 = unknown
+
+[LUA-print] [INFO] # device.language              = cn
+
+[LUA-print] [INFO] # device.writablePath          = D:\cocos2d\cocos2dxLua\Quick-Cocos2dx-Community\quick\samples\game\
+
+[LUA-print] [INFO] # device.directorySeparator    = \
+
+[LUA-print] [INFO] # device.pathSeparator         = ;
+
+[LUA-print] [INFO] #
+
+[LUA-print] [INFO] # CONFIG_SCREEN_AUTOSCALE      = FIXED_WIDTH
+
+[LUA-print] [INFO] # CONFIG_SCREEN_WIDTH          = 640.00
+
+[LUA-print] [INFO] # CONFIG_SCREEN_HEIGHT         = 426.67
+
+[LUA-print] [INFO] # display.widthInPixels        = 960.00
+
+[LUA-print] [INFO] # display.heightInPixels       = 640.00
+
+[LUA-print] [INFO] # display.contentScaleFactor   = 1.50
+
+[LUA-print] [INFO] # display.width                = 640.00
+
+[LUA-print] [INFO] # display.height               = 426.67
+
+[LUA-print] [INFO] # display.cx                   = 320.00
+
+[LUA-print] [INFO] # display.cy                   = 213.33
+
+[LUA-print] [INFO] # display.left                 = 0.00
+
+[LUA-print] [INFO] # display.right                = 640.00
+
+[LUA-print] [INFO] # display.top                  = 426.67
+
+[LUA-print] [INFO] # display.bottom               = 0.00
+
+[LUA-print] [INFO] # display.c_left               = -320.00
+
+[LUA-print] [INFO] # display.c_right              = 320.00
+
+[LUA-print] [INFO] # display.c_top                = 213.33
+
+[LUA-print] [INFO] # display.c_bottom             = -213.33
+
+[LUA-print] [INFO] #
+
+[LUA ERROR] [string "D:/cocos2d/cocos2dxLua/Quick-Cocos2dx-Community/quick/samples/game/src/app/scenes/MainScene.lua"]:432: attempt to index field 'touch' (a nil value)
+
