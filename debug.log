@@ -1,0 +1,358 @@
+Quick-Cocos2dx-Community C++ support ready.
+
+------------------------------------------------
+
+LOAD LUA FILE: D:/cocos2d/cocos2dxLua/Quick-Cocos2dx-Community/quick/samples/unbelievable/src/main.lua
+
+------------------------------------------------
+
+[LUA-print] ===========================================================
+
+[LUA-print]               LOAD QUICK FRAMEWORK
+
+[LUA-print] ===========================================================
+
+[LUA-print] [INFO] 
+
+[LUA-print] [INFO] # DEBUG                        = 1
+
+[LUA-print] [INFO] #
+
+[LUA-print] [INFO] # device.platform              = windows
+
+[LUA-print] [INFO] # device.model                 = unknown
+
+[LUA-print] [INFO] # device.language              = cn
+
+[LUA-print] [INFO] # device.writablePath          = D:\cocos2d\cocos2dxLua\Quick-Cocos2dx-Community\quick\samples\unbelievable\
+
+[LUA-print] [INFO] # device.directorySeparator    = \
+
+[LUA-print] [INFO] # device.pathSeparator         = ;
+
+[LUA-print] [INFO] #
+
+[LUA-print] [INFO] # CONFIG_SCREEN_AUTOSCALE      = FIXED_WIDTH
+
+[LUA-print] [INFO] # CONFIG_SCREEN_WIDTH          = 480.00
+
+[LUA-print] [INFO] # CONFIG_SCREEN_HEIGHT         = 800.00
+
+[LUA-print] [INFO] # display.widthInPixels        = 480.00
+
+[LUA-print] [INFO] # display.heightInPixels       = 800.00
+
+[LUA-print] [INFO] # display.contentScaleFactor   = 1.00
+
+[LUA-print] [INFO] # display.width                = 480.00
+
+[LUA-print] [INFO] # display.height               = 800.00
+
+[LUA-print] [INFO] # display.cx                   = 240.00
+
+[LUA-print] [INFO] # display.cy                   = 400.00
+
+[LUA-print] [INFO] # display.left                 = 0.00
+
+[LUA-print] [INFO] # display.right                = 480.00
+
+[LUA-print] [INFO] # display.top                  = 800.00
+
+[LUA-print] [INFO] # display.bottom               = 0.00
+
+[LUA-print] [INFO] # display.c_left               = -240.00
+
+[LUA-print] [INFO] # display.c_right              = 240.00
+
+[LUA-print] [INFO] # display.c_top                = 400.00
+
+[LUA-print] [INFO] # display.c_bottom             = -400.00
+
+[LUA-print] [INFO] #
+
+[LUA-print] 9	2
+
+[LUA-print] 9	3
+
+[LUA-print] 9	4
+
+WARNING: File case-sensitive.
+D:/cocos2d/cocos2dxLua/Quick-Cocos2dx-Community/quick/samples/unbelievable/res/bubbleEXplode.plist
+D:/cocos2d/cocos2dxLua/Quick-Cocos2dx-Community/quick/samples/unbelievable/res/bubbleExplode.plist
+
+
+
+Get data from file(particleTexture.png) failed, error code is 2
+
+[LUA-print] 9	2
+
+[LUA-print] 9	3
+
+[LUA-print] 9	4
+
+[LUA-print] 3	7
+
+[LUA-print] 4	7
+
+[LUA-print] 5	7
+
+[LUA-print] fill
+
+[LUA-print] began
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] ended
+
+[LUA-print] 7	5
+
+[LUA-print] 8	5
+
+[LUA-print] 9	5
+
+[LUA-print] fill
+
+[LUA-print] began
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] ended
+
+[LUA-print] began
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] ended
+
+[LUA-print] began
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] ended
+
+[LUA-print] began
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] ended
+
+[LUA-print] began
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] ended
+
+[LUA-print] began
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] ended
+
+[LUA-print] began
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] ended
+
+[LUA-print] began
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] ended
+
+[LUA-print] began
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] ended
+
+[LUA-print] 2	1
+
+[LUA-print] 2	2
+
+[LUA-print] 2	3
+
+[LUA-print] fill
+
+[LUA-print] began
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] moved
+
+[LUA-print] ended
+
+[LUA-print] 4	1
+
+[LUA-print] 4	2
+
+[LUA-print] 4	3
+
+[LUA-print] 4	4
+
+[LUA-print] fill
+
