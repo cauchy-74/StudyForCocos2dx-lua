@@ -2,7 +2,8 @@
 学习Quick-Cocos2dx-Community 
 
 
-mater 分支里头，没合并。
+mater 分支: 学习的demo
+master1 分支： unbelievable 开心消消乐
 
 
 操作步骤：
